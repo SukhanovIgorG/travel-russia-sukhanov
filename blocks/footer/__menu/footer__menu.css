@@ -1,0 +1,23 @@
+.footer__menu {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .footer__menu {
+    flex-direction: row;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1139px) {
+  .footer__menu {
+    flex-direction: row;
+  }
+}
+
+@media screen and (min-width: 1140px) {
+  .footer__menu {
+    flex-direction: row;
+  }
+}
