@@ -1,0 +1,19 @@
+.cover {
+  position: relative;
+  max-width: 1184px;
+  height: 62.5vw;
+  max-height: 740px;
+  margin: 0 auto;
+
+  background-image: url(../../img/cover__background.jpg);
+  background-size: auto 100%;
+  background-position: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cover:hover .cover__overlay {
+  opacity: 80%;
+}
