@@ -15,4 +15,4 @@
 * Избражения разных размеров для разных размеров экрана. 
 * Шрифты подключены локально и только необходимые стили. 
 
-[ССЫЛКА НА ОПУБЛИКОВАННЫЙ ПРОЕКТ](https://sukhanovigorg.github.io/russian-travel/index.html)
+[ССЫЛКА НА ОПУБЛИКОВАННЫЙ ПРОЕКТ НА GH-PAGES](https://sukhanovigorg.github.io/russian-travel/index.html)

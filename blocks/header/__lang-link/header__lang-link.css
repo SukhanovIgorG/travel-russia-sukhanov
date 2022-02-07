@@ -9,9 +9,6 @@
   color: white;
 }
 
-.header__lang-link:hover {
-  text-decoration: underline;
-}
 
 @media screen and (min-width: 425px) {
   .header__lang-link {
